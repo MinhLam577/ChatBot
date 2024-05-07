@@ -1,5 +1,4 @@
 # Chatbot trả lời câu hỏi từ người dùng, tự học câu trả lời từ người dùng
-___
 
 ## Một số ví dụ
 - You: Có bao nhiêu hãng máy tính
