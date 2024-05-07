@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 import json
+from difflib import get_close_matches
+
 clean_data_path = "data/csv/clean_laptop_data.csv"
 original_data_path = "data/csv/laptop_data.csv"
 json_data_path = "data/json/question_data.json"
@@ -20,6 +22,18 @@ def clear_json_file(json_file):
     json_data = load_json(json_file)
     json_data["questions"] = []
     save_json(json_file, json_data)
+
+def check_similarity(question, list_of_question):
+    if question in list_of_question:
+        return True
+    Match =  get_close_matches(question, list_of_question, cutoff=0.9, n = 1)
+    if Match is not None:
+        return True
+    return False
+
+def get_list_qs_from_json_file(json_file):
+    json_data = load_json(json_file)
+    return [question["question"] for question in json_data["questions"]]
 
 def find_laptop_with_highest_ScreenResolution(data, original_data):
     list_qa = []
@@ -574,24 +588,37 @@ functions_get_all = [get_all_Company, get_all_typename, get_all_OpSys, get_all_S
 
 functions_get_lap_count = [get_lap_count_by_company, get_lap_count_by_typename, get_lap_count_by_OpSys, get_lap_count_by_ScreenResolution, get_lap_count_by_Weight, get_lap_count_by_Ram, get_lap_count_by_Cpu, get_lap_count_by_Gpu, get_lap_count_by_Inches]
 
+list_qa_json_file = get_list_qs_from_json_file(json_data_path)
 
 for function in functions_finds:
     list_qa = function(clean_data, original_data)
+    list_qa_need = []
     for qa in list_qa:
+        if not check_similarity(qa, list_qa_json_file):
+            list_qa_need.append(qa)
+    for qa in list_qa_need:
         qa['answer'] = f'"""{qa["answer"]}"""'
-    json_data["questions"].extend(list_qa)
+    json_data["questions"].extend(list_qa_need)
     
 for function in functions_get_all:
     list_qa, _ = function(clean_data)
+    list_qa_need = []
     for qa in list_qa:
+        if not check_similarity(qa, list_qa_json_file):
+            list_qa_need.append(qa)
+    for qa in list_qa_need:
         qa['answer'] = f'"""{qa["answer"]}"""'
-    json_data["questions"].extend(list_qa)
+    json_data["questions"].extend(list_qa_need)
     
 for function in functions_get_lap_count:
     list_qa = function(clean_data)
+    list_qa_need = []
     for qa in list_qa:
+        if not check_similarity(qa, list_qa_json_file):
+            list_qa_need.append(qa)
+    for qa in list_qa_need:
         qa['answer'] = f'"""{qa["answer"]}"""'
-    json_data["questions"].extend(list_qa)
+    json_data["questions"].extend(list_qa_need)
 
 save_json(json_data_path, json_data)
 print("Done")

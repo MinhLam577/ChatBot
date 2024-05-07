@@ -1,2416 +1,2420 @@
 {
   "questions": [
     {
-      "question": "Máy tính có độ phân phải cao nhất có công ty là gì?",
+      "question": "máy tính có độ phân phải cao nhất có công ty là gì?",
       "answer": "\"\"\"HP\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có tên máy tính là gì?",
+      "question": "máy tính có độ phân phải cao nhất có tên máy tính là gì?",
       "answer": "\"\"\"Ultrabook\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có kích thước màn hình là gì?",
+      "question": "máy tính có độ phân phải cao nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"12.5\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có độ phân phải cao nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"IPS Panel 4K Ultra HD / Touchscreen 3840x2160\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có cpu là gì?",
+      "question": "máy tính có độ phân phải cao nhất có cpu là gì?",
       "answer": "\"\"\"Intel Core M 6Y75 1.2GHz\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có ram là gì?",
+      "question": "máy tính có độ phân phải cao nhất có ram là gì?",
       "answer": "\"\"\"8GB\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có bộ nhớ là gì?",
+      "question": "máy tính có độ phân phải cao nhất có bộ nhớ là gì?",
       "answer": "\"\"\"512GB SSD\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có gpu là gì?",
+      "question": "máy tính có độ phân phải cao nhất có gpu là gì?",
       "answer": "\"\"\"Intel HD Graphics 515\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có hệ điều hành là gì?",
+      "question": "máy tính có độ phân phải cao nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có trọng lượng là gì?",
+      "question": "máy tính có độ phân phải cao nhất có trọng lượng là gì?",
       "answer": "\"\"\"0.97kg\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải cao nhất có giá là gì?",
+      "question": "máy tính có độ phân phải cao nhất có giá là gì?",
       "answer": "\"\"\"107305.92\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có độ phân giải màn hình cao nhất:\n",
+      "question": "\nthông tin máy tính có độ phân giải màn hình cao nhất:\n",
       "answer": "\"\"\"Company                                                        HP\nTypeName                                                Ultrabook\nInches                                                       12.5\nScreenResolution    IPS Panel 4K Ultra HD / Touchscreen 3840x2160\nCpu                                      Intel Core M 6Y75 1.2GHz\nRam                                                           8GB\nMemory                                                  512GB SSD\nGpu                                         Intel HD Graphics 515\nOpSys                                                  Windows 10\nWeight                                                     0.97kg\nPrice                                                   107305.92\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có công ty là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có công ty là gì?",
       "answer": "\"\"\"Acer\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có tên máy tính là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có tên máy tính là gì?",
       "answer": "\"\"\"Notebook\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có kích thước màn hình là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"15.6\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"1366x768\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có cpu là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có cpu là gì?",
       "answer": "\"\"\"AMD A9-Series 9420 3GHz\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có ram là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có ram là gì?",
       "answer": "\"\"\"4GB\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có bộ nhớ là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có bộ nhớ là gì?",
       "answer": "\"\"\"500GB HDD\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có gpu là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có gpu là gì?",
       "answer": "\"\"\"AMD Radeon R5\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có hệ điều hành là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có trọng lượng là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có trọng lượng là gì?",
       "answer": "\"\"\"2.1kg\"\"\""
     },
     {
-      "question": "Máy tính có độ phân phải thấp nhất có giá là gì?",
+      "question": "máy tính có độ phân phải thấp nhất có giá là gì?",
       "answer": "\"\"\"21312.0\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có độ phân giải màn hình thấp nhất:\n",
+      "question": "\nthông tin máy tính có độ phân giải màn hình thấp nhất:\n",
       "answer": "\"\"\"Company                                Acer\nTypeName                           Notebook\nInches                                 15.6\nScreenResolution                   1366x768\nCpu                 AMD A9-Series 9420 3GHz\nRam                                     4GB\nMemory                            500GB HDD\nGpu                           AMD Radeon R5\nOpSys                            Windows 10\nWeight                                2.1kg\nPrice                               21312.0\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có công ty là gì?",
+      "question": "máy tính có giá đắt nhất có công ty là gì?",
       "answer": "\"\"\"Razer\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có tên máy tính là gì?",
+      "question": "máy tính có giá đắt nhất có tên máy tính là gì?",
       "answer": "\"\"\"Gaming\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có kích thước màn hình là gì?",
+      "question": "máy tính có giá đắt nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"17.3\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có giá đắt nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"4K Ultra HD / Touchscreen 3840x2160\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có cpu là gì?",
+      "question": "máy tính có giá đắt nhất có cpu là gì?",
       "answer": "\"\"\"Intel Core i7 7820HK 2.9GHz\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có ram là gì?",
+      "question": "máy tính có giá đắt nhất có ram là gì?",
       "answer": "\"\"\"32GB\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có bộ nhớ là gì?",
+      "question": "máy tính có giá đắt nhất có bộ nhớ là gì?",
       "answer": "\"\"\"1TB SSD\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có gpu là gì?",
+      "question": "máy tính có giá đắt nhất có gpu là gì?",
       "answer": "\"\"\"Nvidia GeForce GTX 1080\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có hệ điều hành là gì?",
+      "question": "máy tính có giá đắt nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có trọng lượng là gì?",
+      "question": "máy tính có giá đắt nhất có trọng lượng là gì?",
       "answer": "\"\"\"3.49kg\"\"\""
     },
     {
-      "question": "Máy tính có giá đắt nhất có giá là gì?",
+      "question": "máy tính có giá đắt nhất có giá là gì?",
       "answer": "\"\"\"324954.72\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có giá đắt nhất:\n",
+      "question": "\nthông tin máy tính có giá đắt nhất:\n",
       "answer": "\"\"\"Company                                           Razer\nTypeName                                         Gaming\nInches                                             17.3\nScreenResolution    4K Ultra HD / Touchscreen 3840x2160\nCpu                         Intel Core i7 7820HK 2.9GHz\nRam                                                32GB\nMemory                                          1TB SSD\nGpu                             Nvidia GeForce GTX 1080\nOpSys                                        Windows 10\nWeight                                           3.49kg\nPrice                                         324954.72\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có công ty là gì?",
+      "question": "máy tính có giá rẻ nhất có công ty là gì?",
       "answer": "\"\"\"Acer\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có tên máy tính là gì?",
+      "question": "máy tính có giá rẻ nhất có tên máy tính là gì?",
       "answer": "\"\"\"Netbook\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có kích thước màn hình là gì?",
+      "question": "máy tính có giá rẻ nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"11.6\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có giá rẻ nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"1366x768\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có cpu là gì?",
+      "question": "máy tính có giá rẻ nhất có cpu là gì?",
       "answer": "\"\"\"Intel Celeron Dual Core 3205U 1.5GHz\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có ram là gì?",
+      "question": "máy tính có giá rẻ nhất có ram là gì?",
       "answer": "\"\"\"2GB\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có bộ nhớ là gì?",
+      "question": "máy tính có giá rẻ nhất có bộ nhớ là gì?",
       "answer": "\"\"\"32GB SSD\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có gpu là gì?",
+      "question": "máy tính có giá rẻ nhất có gpu là gì?",
       "answer": "\"\"\"Intel HD Graphics\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có hệ điều hành là gì?",
+      "question": "máy tính có giá rẻ nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Chrome OS\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có trọng lượng là gì?",
+      "question": "máy tính có giá rẻ nhất có trọng lượng là gì?",
       "answer": "\"\"\"1.3kg\"\"\""
     },
     {
-      "question": "Máy tính có giá rẻ nhất có giá là gì?",
+      "question": "máy tính có giá rẻ nhất có giá là gì?",
       "answer": "\"\"\"9270.72\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có giá rẻ nhất:\n",
+      "question": "\nthông tin máy tính có giá rẻ nhất:\n",
       "answer": "\"\"\"Company                                             Acer\nTypeName                                         Netbook\nInches                                              11.6\nScreenResolution                                1366x768\nCpu                 Intel Celeron Dual Core 3205U 1.5GHz\nRam                                                  2GB\nMemory                                          32GB SSD\nGpu                                    Intel HD Graphics\nOpSys                                          Chrome OS\nWeight                                             1.3kg\nPrice                                            9270.72\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có công ty là gì?",
+      "question": "máy tính nhẹ nhất có công ty là gì?",
       "answer": "\"\"\"Lenovo\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có tên máy tính là gì?",
+      "question": "máy tính nhẹ nhất có tên máy tính là gì?",
       "answer": "\"\"\"2 in 1 Convertible\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có kích thước màn hình là gì?",
+      "question": "máy tính nhẹ nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"10.1\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính nhẹ nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"IPS Panel Touchscreen 1920x1200\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có cpu là gì?",
+      "question": "máy tính nhẹ nhất có cpu là gì?",
       "answer": "\"\"\"Intel Atom x5-Z8550 1.44GHz\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có ram là gì?",
+      "question": "máy tính nhẹ nhất có ram là gì?",
       "answer": "\"\"\"4GB\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có bộ nhớ là gì?",
+      "question": "máy tính nhẹ nhất có bộ nhớ là gì?",
       "answer": "\"\"\"64GB Flash Storage\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có gpu là gì?",
+      "question": "máy tính nhẹ nhất có gpu là gì?",
       "answer": "\"\"\"Intel HD Graphics 400\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có hệ điều hành là gì?",
+      "question": "máy tính nhẹ nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Android\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có trọng lượng là gì?",
+      "question": "máy tính nhẹ nhất có trọng lượng là gì?",
       "answer": "\"\"\"0.69kg\"\"\""
     },
     {
-      "question": "Máy tính nhẹ nhất có giá là gì?",
+      "question": "máy tính nhẹ nhất có giá là gì?",
       "answer": "\"\"\"16996.32\"\"\""
     },
     {
-      "question": "\nThông tin máy tính nhẹ nhất:\n",
+      "question": "\nthông tin máy tính nhẹ nhất:\n",
       "answer": "\"\"\"Company                                      Lenovo\nTypeName                         2 in 1 Convertible\nInches                                         10.1\nScreenResolution    IPS Panel Touchscreen 1920x1200\nCpu                     Intel Atom x5-Z8550 1.44GHz\nRam                                             4GB\nMemory                           64GB Flash Storage\nGpu                           Intel HD Graphics 400\nOpSys                                       Android\nWeight                                       0.69kg\nPrice                                      16996.32\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có công ty là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có công ty là gì?",
       "answer": "\"\"\"Asus\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có tên máy tính là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có tên máy tính là gì?",
       "answer": "\"\"\"Gaming\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có kích thước màn hình là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"17.3\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"Full HD 1920x1080\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có cpu là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có cpu là gì?",
       "answer": "\"\"\"Intel Core i7 7820HK 2.9GHz\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có ram là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có ram là gì?",
       "answer": "\"\"\"32GB\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có bộ nhớ là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có bộ nhớ là gì?",
       "answer": "\"\"\"512GB SSD +  1TB HDD\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có gpu là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có gpu là gì?",
       "answer": "\"\"\"Nvidia GeForce GTX 1080\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có hệ điều hành là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có trọng lượng là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có trọng lượng là gì?",
       "answer": "\"\"\"4.7kg\"\"\""
     },
     {
-      "question": "Máy tính có trọng lượng lớn nhất có giá là gì?",
+      "question": "máy tính có trọng lượng lớn nhất có giá là gì?",
       "answer": "\"\"\"207259.2\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có trọng lượng lớn nhất:\n",
+      "question": "\nthông tin máy tính có trọng lượng lớn nhất:\n",
       "answer": "\"\"\"Company                                    Asus\nTypeName                                 Gaming\nInches                                     17.3\nScreenResolution              Full HD 1920x1080\nCpu                 Intel Core i7 7820HK 2.9GHz\nRam                                        32GB\nMemory                     512GB SSD +  1TB HDD\nGpu                     Nvidia GeForce GTX 1080\nOpSys                                Windows 10\nWeight                                    4.7kg\nPrice                                  207259.2\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có công ty là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có công ty là gì?",
       "answer": "\"\"\"Asus\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có tên máy tính là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có tên máy tính là gì?",
       "answer": "\"\"\"2 in 1 Convertible\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có kích thước màn hình là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"15.6\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"Full HD / Touchscreen 1920x1080\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có cpu là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có cpu là gì?",
       "answer": "\"\"\"Intel Core i7 7500U 2.7GHz\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có ram là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có ram là gì?",
       "answer": "\"\"\"12GB\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có bộ nhớ là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có bộ nhớ là gì?",
       "answer": "\"\"\"512GB SSD +  2TB HDD\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có gpu là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có gpu là gì?",
       "answer": "\"\"\"Nvidia GeForce GT 940MX\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có hệ điều hành là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có trọng lượng là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có trọng lượng là gì?",
       "answer": "\"\"\"2.26kg\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ lớn nhất có giá là gì?",
+      "question": "máy tính có bộ nhớ lớn nhất có giá là gì?",
       "answer": "\"\"\"58554.72\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có bộ nhớ lớn nhất:\n",
+      "question": "\nthông tin máy tính có bộ nhớ lớn nhất:\n",
       "answer": "\"\"\"Company                                        Asus\nTypeName                         2 in 1 Convertible\nInches                                         15.6\nScreenResolution    Full HD / Touchscreen 1920x1080\nCpu                      Intel Core i7 7500U 2.7GHz\nRam                                            12GB\nMemory                         512GB SSD +  2TB HDD\nGpu                         Nvidia GeForce GT 940MX\nOpSys                                    Windows 10\nWeight                                       2.26kg\nPrice                                      58554.72\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có công ty là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có công ty là gì?",
       "answer": "\"\"\"HP\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có tên máy tính là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có tên máy tính là gì?",
       "answer": "\"\"\"Workstation\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có kích thước màn hình là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"15.6\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"IPS Panel Full HD 1920x1080\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có cpu là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có cpu là gì?",
       "answer": "\"\"\"Intel Core i7 6820HQ 2.7GHz\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có ram là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có ram là gì?",
       "answer": "\"\"\"8GB\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có bộ nhớ là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có bộ nhớ là gì?",
       "answer": "\"\"\"8GB SSD\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có gpu là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có gpu là gì?",
       "answer": "\"\"\"Nvidia Quadro M1000M\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có hệ điều hành là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có trọng lượng là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có trọng lượng là gì?",
       "answer": "\"\"\"2.0kg\"\"\""
     },
     {
-      "question": "Máy tính có bộ nhớ thấp nhất có giá là gì?",
+      "question": "máy tính có bộ nhớ thấp nhất có giá là gì?",
       "answer": "\"\"\"119826.72\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có bộ nhớ thấp nhất:\n",
+      "question": "\nthông tin máy tính có bộ nhớ thấp nhất:\n",
       "answer": "\"\"\"Company                                      HP\nTypeName                            Workstation\nInches                                     15.6\nScreenResolution    IPS Panel Full HD 1920x1080\nCpu                 Intel Core i7 6820HQ 2.7GHz\nRam                                         8GB\nMemory                                  8GB SSD\nGpu                        Nvidia Quadro M1000M\nOpSys                                Windows 10\nWeight                                    2.0kg\nPrice                                 119826.72\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có công ty là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có công ty là gì?",
       "answer": "\"\"\"MSI\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có tên máy tính là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có tên máy tính là gì?",
       "answer": "\"\"\"Gaming\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có kích thước màn hình là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"18.4\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"Full HD 1920x1080\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có cpu là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có cpu là gì?",
       "answer": "\"\"\"Intel Core i7 6920HQ 2.9GHz\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có ram là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có ram là gì?",
       "answer": "\"\"\"32GB\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có bộ nhớ là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có bộ nhớ là gì?",
       "answer": "\"\"\"512GB SSD +  1TB HDD\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có gpu là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có gpu là gì?",
       "answer": "\"\"\"Nvidia GTX 980 SLI\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có hệ điều hành là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có trọng lượng là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có trọng lượng là gì?",
       "answer": "\"\"\"4.4kg\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình lớn nhất có giá là gì?",
+      "question": "máy tính có kích thước màn hình lớn nhất có giá là gì?",
       "answer": "\"\"\"149130.72\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có kích thước màn hình lớn nhất:\n",
+      "question": "\nthông tin máy tính có kích thước màn hình lớn nhất:\n",
       "answer": "\"\"\"Company                                     MSI\nTypeName                                 Gaming\nInches                                     18.4\nScreenResolution              Full HD 1920x1080\nCpu                 Intel Core i7 6920HQ 2.9GHz\nRam                                        32GB\nMemory                     512GB SSD +  1TB HDD\nGpu                          Nvidia GTX 980 SLI\nOpSys                                Windows 10\nWeight                                    4.4kg\nPrice                                 149130.72\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có công ty là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có công ty là gì?",
       "answer": "\"\"\"Lenovo\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có tên máy tính là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có tên máy tính là gì?",
       "answer": "\"\"\"2 in 1 Convertible\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có kích thước màn hình là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"10.1\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"IPS Panel Touchscreen 1920x1200\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có cpu là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có cpu là gì?",
       "answer": "\"\"\"Intel Atom x5-Z8550 1.44GHz\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có ram là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có ram là gì?",
       "answer": "\"\"\"4GB\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có bộ nhớ là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có bộ nhớ là gì?",
       "answer": "\"\"\"64GB Flash Storage\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có gpu là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có gpu là gì?",
       "answer": "\"\"\"Intel HD Graphics 400\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có hệ điều hành là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Android\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có trọng lượng là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có trọng lượng là gì?",
       "answer": "\"\"\"0.69kg\"\"\""
     },
     {
-      "question": "Máy tính có kích thước màn hình nhỏ nhất có giá là gì?",
+      "question": "máy tính có kích thước màn hình nhỏ nhất có giá là gì?",
       "answer": "\"\"\"16996.32\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có kích thước màn hình nhỏ nhất:\n",
+      "question": "\nthông tin máy tính có kích thước màn hình nhỏ nhất:\n",
       "answer": "\"\"\"Company                                      Lenovo\nTypeName                         2 in 1 Convertible\nInches                                         10.1\nScreenResolution    IPS Panel Touchscreen 1920x1200\nCpu                     Intel Atom x5-Z8550 1.44GHz\nRam                                             4GB\nMemory                           64GB Flash Storage\nGpu                           Intel HD Graphics 400\nOpSys                                       Android\nWeight                                       0.69kg\nPrice                                      16996.32\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có công ty là gì?",
+      "question": "máy tính có ram lớn nhất có công ty là gì?",
       "answer": "\"\"\"Asus\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có tên máy tính là gì?",
+      "question": "máy tính có ram lớn nhất có tên máy tính là gì?",
       "answer": "\"\"\"Gaming\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có kích thước màn hình là gì?",
+      "question": "máy tính có ram lớn nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"17.3\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có ram lớn nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"IPS Panel Full HD 1920x1080\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có cpu là gì?",
+      "question": "máy tính có ram lớn nhất có cpu là gì?",
       "answer": "\"\"\"Intel Core i7 6820HK 2.7GHz\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có ram là gì?",
+      "question": "máy tính có ram lớn nhất có ram là gì?",
       "answer": "\"\"\"64GB\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có bộ nhớ là gì?",
+      "question": "máy tính có ram lớn nhất có bộ nhớ là gì?",
       "answer": "\"\"\"1TB SSD\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có gpu là gì?",
+      "question": "máy tính có ram lớn nhất có gpu là gì?",
       "answer": "\"\"\"Nvidia GeForce GTX 980 \"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có hệ điều hành là gì?",
+      "question": "máy tính có ram lớn nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có trọng lượng là gì?",
+      "question": "máy tính có ram lớn nhất có trọng lượng là gì?",
       "answer": "\"\"\"3.58kg\"\"\""
     },
     {
-      "question": "Máy tính có RAM lớn nhất có giá là gì?",
+      "question": "máy tính có ram lớn nhất có giá là gì?",
       "answer": "\"\"\"211788.0\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có RAM lớn nhất:\n",
+      "question": "\nthông tin máy tính có ram lớn nhất:\n",
       "answer": "\"\"\"Company                                    Asus\nTypeName                                 Gaming\nInches                                     17.3\nScreenResolution    IPS Panel Full HD 1920x1080\nCpu                 Intel Core i7 6820HK 2.7GHz\nRam                                        64GB\nMemory                                  1TB SSD\nGpu                     Nvidia GeForce GTX 980 \nOpSys                                Windows 10\nWeight                                   3.58kg\nPrice                                  211788.0\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có công ty là gì?",
+      "question": "máy tính có ram nhỏ nhất có công ty là gì?",
       "answer": "\"\"\"Asus\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có tên máy tính là gì?",
+      "question": "máy tính có ram nhỏ nhất có tên máy tính là gì?",
       "answer": "\"\"\"Netbook\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có kích thước màn hình là gì?",
+      "question": "máy tính có ram nhỏ nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"11.6\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có ram nhỏ nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"1366x768\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có cpu là gì?",
+      "question": "máy tính có ram nhỏ nhất có cpu là gì?",
       "answer": "\"\"\"Intel Atom x5-Z8350 1.44GHz\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có ram là gì?",
+      "question": "máy tính có ram nhỏ nhất có ram là gì?",
       "answer": "\"\"\"2GB\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có bộ nhớ là gì?",
+      "question": "máy tính có ram nhỏ nhất có bộ nhớ là gì?",
       "answer": "\"\"\"32GB Flash Storage\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có gpu là gì?",
+      "question": "máy tính có ram nhỏ nhất có gpu là gì?",
       "answer": "\"\"\"Intel HD Graphics 400\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có hệ điều hành là gì?",
+      "question": "máy tính có ram nhỏ nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có trọng lượng là gì?",
+      "question": "máy tính có ram nhỏ nhất có trọng lượng là gì?",
       "answer": "\"\"\"0.98kg\"\"\""
     },
     {
-      "question": "Máy tính có RAM nhỏ nhất có giá là gì?",
+      "question": "máy tính có ram nhỏ nhất có giá là gì?",
       "answer": "\"\"\"10224.432\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có RAM nhỏ nhất:\n",
+      "question": "\nthông tin máy tính có ram nhỏ nhất:\n",
       "answer": "\"\"\"Company                                    Asus\nTypeName                                Netbook\nInches                                     11.6\nScreenResolution                       1366x768\nCpu                 Intel Atom x5-Z8350 1.44GHz\nRam                                         2GB\nMemory                       32GB Flash Storage\nGpu                       Intel HD Graphics 400\nOpSys                                Windows 10\nWeight                                   0.98kg\nPrice                                 10224.432\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có công ty là gì?",
+      "question": "máy tính có cpu mạnh nhất có công ty là gì?",
       "answer": "\"\"\"Lenovo\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có tên máy tính là gì?",
+      "question": "máy tính có cpu mạnh nhất có tên máy tính là gì?",
       "answer": "\"\"\"Notebook\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có kích thước màn hình là gì?",
+      "question": "máy tính có cpu mạnh nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"15.6\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có cpu mạnh nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"Full HD 1920x1080\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có cpu là gì?",
+      "question": "máy tính có cpu mạnh nhất có cpu là gì?",
       "answer": "\"\"\"AMD A12-Series 9720P 3.6GHz\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có ram là gì?",
+      "question": "máy tính có cpu mạnh nhất có ram là gì?",
       "answer": "\"\"\"12GB\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có bộ nhớ là gì?",
+      "question": "máy tính có cpu mạnh nhất có bộ nhớ là gì?",
       "answer": "\"\"\"2TB HDD\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có gpu là gì?",
+      "question": "máy tính có cpu mạnh nhất có gpu là gì?",
       "answer": "\"\"\"AMD Radeon 530\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có hệ điều hành là gì?",
+      "question": "máy tính có cpu mạnh nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Windows 10\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có trọng lượng là gì?",
+      "question": "máy tính có cpu mạnh nhất có trọng lượng là gì?",
       "answer": "\"\"\"2.2kg\"\"\""
     },
     {
-      "question": "Máy tính có CPU mạnh nhất có giá là gì?",
+      "question": "máy tính có cpu mạnh nhất có giá là gì?",
       "answer": "\"\"\"47898.72\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có CPU mạnh nhất:\n",
+      "question": "\nthông tin máy tính có cpu mạnh nhất:\n",
       "answer": "\"\"\"Company                                  Lenovo\nTypeName                               Notebook\nInches                                     15.6\nScreenResolution              Full HD 1920x1080\nCpu                 AMD A12-Series 9720P 3.6GHz\nRam                                        12GB\nMemory                                  2TB HDD\nGpu                              AMD Radeon 530\nOpSys                                Windows 10\nWeight                                    2.2kg\nPrice                                  47898.72\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có công ty là gì?",
+      "question": "máy tính có cpu yếu nhất có công ty là gì?",
       "answer": "\"\"\"Asus\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có tên máy tính là gì?",
+      "question": "máy tính có cpu yếu nhất có tên máy tính là gì?",
       "answer": "\"\"\"2 in 1 Convertible\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có kích thước màn hình là gì?",
+      "question": "máy tính có cpu yếu nhất có kích thước màn hình là gì?",
       "answer": "\"\"\"12.5\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có độ phân giải màn hình là gì?",
+      "question": "máy tính có cpu yếu nhất có độ phân giải màn hình là gì?",
       "answer": "\"\"\"Full HD / Touchscreen 1920x1080\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có cpu là gì?",
+      "question": "máy tính có cpu yếu nhất có cpu là gì?",
       "answer": "\"\"\"Intel Core M M3-6Y30 0.9GHz\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có ram là gì?",
+      "question": "máy tính có cpu yếu nhất có ram là gì?",
       "answer": "\"\"\"4GB\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có bộ nhớ là gì?",
+      "question": "máy tính có cpu yếu nhất có bộ nhớ là gì?",
       "answer": "\"\"\"64GB Flash Storage\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có gpu là gì?",
+      "question": "máy tính có cpu yếu nhất có gpu là gì?",
       "answer": "\"\"\"Intel HD Graphics 515\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có hệ điều hành là gì?",
+      "question": "máy tính có cpu yếu nhất có hệ điều hành là gì?",
       "answer": "\"\"\"Chrome OS\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có trọng lượng là gì?",
+      "question": "máy tính có cpu yếu nhất có trọng lượng là gì?",
       "answer": "\"\"\"1.2kg\"\"\""
     },
     {
-      "question": "Máy tính có CPU yếu nhất có giá là gì?",
+      "question": "máy tính có cpu yếu nhất có giá là gì?",
       "answer": "\"\"\"35644.32\"\"\""
     },
     {
-      "question": "\nThông tin máy tính có CPU yếu nhất:\n",
+      "question": "\nthông tin máy tính có cpu yếu nhất:\n",
       "answer": "\"\"\"Company                                        Asus\nTypeName                         2 in 1 Convertible\nInches                                         12.5\nScreenResolution    Full HD / Touchscreen 1920x1080\nCpu                     Intel Core M M3-6Y30 0.9GHz\nRam                                             4GB\nMemory                           64GB Flash Storage\nGpu                           Intel HD Graphics 515\nOpSys                                     Chrome OS\nWeight                                        1.2kg\nPrice                                      35644.32\"\"\""
     },
     {
-      "question": "Có những hãng máy tính nào?",
-      "answer": "\"\"\"Có những hãng máy tính sau: \nAPPLE, HP, ACER, ASUS, DELL, LENOVO, CHUWI, MSI, MICROSOFT, TOSHIBA, HUAWEI, XIAOMI, VERO, RAZER, MEDIACOM, SAMSUNG, GOOGLE, FUJITSU, LG\"\"\""
+      "question": "có những hãng máy tính nào?",
+      "answer": "\"\"\"APPLE, HP, ACER, ASUS, DELL, LENOVO, CHUWI, MSI, MICROSOFT, TOSHIBA, HUAWEI, XIAOMI, VERO, RAZER, MEDIACOM, SAMSUNG, GOOGLE, FUJITSU, LG\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng APPLE?",
+      "question": "có bao nhiêu máy tính của hãng apple?",
       "answer": "\"\"\"21 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng HP?",
+      "question": "có bao nhiêu máy tính của hãng hp?",
       "answer": "\"\"\"274 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng ACER?",
+      "question": "có bao nhiêu máy tính của hãng acer?",
       "answer": "\"\"\"103 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng ASUS?",
+      "question": "có bao nhiêu máy tính của hãng asus?",
       "answer": "\"\"\"158 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng DELL?",
+      "question": "có bao nhiêu máy tính của hãng dell?",
       "answer": "\"\"\"297 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng LENOVO?",
+      "question": "có bao nhiêu máy tính của hãng lenovo?",
       "answer": "\"\"\"297 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng CHUWI?",
+      "question": "có bao nhiêu máy tính của hãng chuwi?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng MSI?",
+      "question": "có bao nhiêu máy tính của hãng msi?",
       "answer": "\"\"\"54 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng MICROSOFT?",
+      "question": "có bao nhiêu máy tính của hãng microsoft?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng TOSHIBA?",
+      "question": "có bao nhiêu máy tính của hãng toshiba?",
       "answer": "\"\"\"48 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng HUAWEI?",
+      "question": "có bao nhiêu máy tính của hãng huawei?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng XIAOMI?",
+      "question": "có bao nhiêu máy tính của hãng xiaomi?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng VERO?",
+      "question": "có bao nhiêu máy tính của hãng vero?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng RAZER?",
+      "question": "có bao nhiêu máy tính của hãng razer?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng MEDIACOM?",
+      "question": "có bao nhiêu máy tính của hãng mediacom?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng SAMSUNG?",
+      "question": "có bao nhiêu máy tính của hãng samsung?",
       "answer": "\"\"\"9 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng GOOGLE?",
+      "question": "có bao nhiêu máy tính của hãng google?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng FUJITSU?",
+      "question": "có bao nhiêu máy tính của hãng fujitsu?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng LG?",
+      "question": "có bao nhiêu máy tính của hãng lg?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có những dòng máy tính nào?",
+      "question": "có những dòng máy tính nào?",
       "answer": "\"\"\"Có những dòng máy tính sau: \nULTRABOOK, NOTEBOOK, NETBOOK, GAMING, 2 IN 1 CONVERTIBLE, WORKSTATION\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng ULTRABOOK?",
+      "question": "có bao nhiêu máy tính của dòng ultrabook?",
       "answer": "\"\"\"196 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng NOTEBOOK?",
+      "question": "có bao nhiêu máy tính của dòng notebook?",
       "answer": "\"\"\"727 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng NETBOOK?",
+      "question": "có bao nhiêu máy tính của dòng netbook?",
       "answer": "\"\"\"25 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng GAMING?",
+      "question": "có bao nhiêu máy tính của dòng gaming?",
       "answer": "\"\"\"205 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng 2 IN 1 CONVERTIBLE?",
+      "question": "có bao nhiêu máy tính của dòng 2 in 1 convertible?",
       "answer": "\"\"\"121 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng WORKSTATION?",
+      "question": "có bao nhiêu máy tính của dòng workstation?",
       "answer": "\"\"\"29 máy\"\"\""
     },
     {
-      "question": "Có những hệ điều hành nào?",
+      "question": "có những hệ điều hành nào?",
       "answer": "\"\"\"Có những hệ điều hành sau: MACOS, NO OS, WINDOWS 10, MAC OS X, LINUX, ANDROID, WINDOWS 10 S, CHROME OS, WINDOWS 7\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có hệ điều hành MACOS?",
+      "question": "có bao nhiêu máy tính có hệ điều hành macos?",
       "answer": "\"\"\"13 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có hệ điều hành NO OS?",
+      "question": "có bao nhiêu máy tính có hệ điều hành no os?",
       "answer": "\"\"\"66 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có hệ điều hành WINDOWS 10?",
+      "question": "có bao nhiêu máy tính có hệ điều hành windows 10?",
       "answer": "\"\"\"1072 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có hệ điều hành MAC OS X?",
+      "question": "có bao nhiêu máy tính có hệ điều hành mac os x?",
       "answer": "\"\"\"8 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có hệ điều hành LINUX?",
+      "question": "có bao nhiêu máy tính có hệ điều hành linux?",
       "answer": "\"\"\"62 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có hệ điều hành ANDROID?",
+      "question": "có bao nhiêu máy tính có hệ điều hành android?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có hệ điều hành WINDOWS 10 S?",
+      "question": "có bao nhiêu máy tính có hệ điều hành windows 10 s?",
       "answer": "\"\"\"8 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có hệ điều hành CHROME OS?",
+      "question": "có bao nhiêu máy tính có hệ điều hành chrome os?",
       "answer": "\"\"\"27 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có hệ điều hành WINDOWS 7?",
+      "question": "có bao nhiêu máy tính có hệ điều hành windows 7?",
       "answer": "\"\"\"45 máy\"\"\""
     },
     {
-      "question": "Có những độ phân giải màn hình nào?",
+      "question": "có những độ phân giải màn hình nào?",
       "answer": "\"\"\"Có những độ phân giải màn hình sau: 2560x1600, 1440x900, 1920x1080, 2880x1800, 1366x768, 2304x1440, 3200x1800, 1920x1200, 2256x1504, 3840x2160, 2160x1440, 2560x1440, 1600x900, 2736x1824, 2400x1600\"\"\""
     },
     {
-      "question": "Có những trọng lượng nào?",
+      "question": "có những trọng lượng nào?",
       "answer": "\"\"\"Có những trọng lượng sau: 1.37, 1.34, 1.86, 1.83, 2.1, 2.04, 1.3, 1.6, 2.2, 0.92, 1.22, 0.98, 2.5, 1.62, 1.91, 2.3, 1.35, 1.88, 1.89, 1.65, 2.71, 1.2, 1.44, 2.8, 2.0, 2.65, 2.77, 3.2, 0.69, 1.49, 2.4, 2.13, 2.43, 1.7, 1.4, 1.8, 1.9, 3.0, 1.252, 2.7, 2.02, 1.63, 1.96, 1.21, 2.45, 1.25, 1.5, 2.62, 1.38, 1.58, 1.85, 1.23, 1.26, 2.16, 2.36, 2.05, 1.32, 1.75, 0.97, 2.9, 2.56, 1.48, 1.74, 1.1, 1.56, 2.03, 1.05, 4.4, 1.29, 1.95, 2.06, 1.12, 1.42, 3.49, 3.35, 2.23, 4.42, 2.69, 2.37, 4.7, 3.6, 2.08, 4.3, 1.68, 1.41, 4.14, 2.18, 2.24, 2.67, 2.14, 1.36, 2.25, 2.15, 2.19, 2.54, 3.42, 1.28, 2.33, 1.45, 2.79, 1.84, 2.6, 2.26, 3.25, 1.59, 1.13, 1.78, 1.15, 1.27, 1.43, 2.31, 1.16, 1.64, 2.17, 1.47, 3.78, 1.79, 0.91, 1.99, 4.33, 1.93, 1.87, 2.63, 3.4, 3.14, 1.94, 1.24, 4.6, 4.5, 2.73, 1.39, 2.29, 2.59, 2.94, 1.14, 3.8, 3.31, 1.09, 3.21, 1.19, 1.98, 1.17, 4.36, 1.71, 2.32, 4.2, 1.55, 0.81, 1.18, 2.72, 1.31, 3.74, 1.76, 1.54, 2.83, 2.07, 2.38, 3.58, 1.08, 2.75, 2.99, 1.11, 2.09, 4.0, 0.99, 3.52, 2.591, 2.21, 3.3, 2.191, 2.34\"\"\""
     },
     {
-      "question": "Có những dung lượng RAM nào?",
+      "question": "có những dung lượng ram nào?",
       "answer": "\"\"\"Có những dung lượng RAM sau: 8.0, 16.0, 4.0, 2.0, 12.0, 6.0, 32.0, 24.0, 64.0\"\"\""
     },
     {
-      "question": "Có những CPU nào?",
+      "question": "có những cpu nào?",
       "answer": "\"\"\"Có những CPU sau: 2.3, 1.8, 2.5, 2.7, 3.1, 3.0, 2.2, 1.6, 2.0, 2.8, 1.2, 2.9, 2.4, 1.44, 1.5, 1.9, 1.1, 1.3, 2.6, 3.6, 3.2, 1.0, 2.1, 0.9, 1.92\"\"\""
     },
     {
-      "question": "Có những GPU nào?",
+      "question": "có những gpu nào?",
       "answer": "\"\"\"Có những GPU sau: Intel Iris Plus Graphics 640, Intel HD Graphics 6000, Intel HD Graphics 620, AMD Radeon Pro 455, Intel Iris Plus Graphics 650, AMD Radeon R5, Intel Iris Pro Graphics, Nvidia GeForce MX150, Intel UHD Graphics 620, Intel HD Graphics 520, AMD Radeon Pro 555, AMD Radeon R5 M430, Intel HD Graphics 615, AMD Radeon Pro 560, Nvidia GeForce 940MX, Intel HD Graphics 400, Nvidia GeForce GTX 1050, AMD Radeon R2, AMD Radeon 530, Nvidia GeForce 930MX, Intel HD Graphics, Intel HD Graphics 500, Nvidia GeForce 930MX , Nvidia GeForce GTX 1060, Nvidia GeForce 150MX, Intel Iris Graphics 540, AMD Radeon RX 580, Nvidia GeForce 920MX, AMD Radeon R4 Graphics, AMD Radeon 520, Nvidia GeForce GTX 1070, Nvidia GeForce GTX 1050 Ti, Nvidia GeForce MX130, AMD R4 Graphics, Nvidia GeForce GTX 940MX, AMD Radeon RX 560, Nvidia GeForce 920M, AMD Radeon R7 M445, AMD Radeon RX 550, Nvidia GeForce GTX 1050M, Intel HD Graphics 515, AMD Radeon R5 M420, Intel HD Graphics 505, Nvidia GTX 980 SLI, AMD R17M-M1-70, Nvidia GeForce GTX 1080, Nvidia Quadro M1200, Nvidia GeForce 920MX , Nvidia GeForce GTX 950M, AMD FirePro W4190M , Nvidia GeForce GTX 980M, Intel Iris Graphics 550, Nvidia GeForce 930M, Intel HD Graphics 630, AMD Radeon R5 430, Nvidia GeForce GTX 940M, Intel HD Graphics 510, Intel HD Graphics 405, AMD Radeon RX 540, Nvidia GeForce GT 940MX, AMD FirePro W5130M, Nvidia Quadro M2200M, AMD Radeon R4, Nvidia Quadro M620, AMD Radeon R7 M460, Intel HD Graphics 530, Nvidia GeForce GTX 965M, Nvidia GeForce GTX1080, Nvidia GeForce GTX1050 Ti, Nvidia GeForce GTX 960M, AMD Radeon R2 Graphics, Nvidia Quadro M620M, Nvidia GeForce GTX 970M, Nvidia GeForce GTX 960<U+039C>, Intel Graphics 620, Nvidia GeForce GTX 960, AMD Radeon R5 520, AMD Radeon R7 M440, AMD Radeon R7, Nvidia Quadro M520M, Nvidia Quadro M2200, Nvidia Quadro M2000M, Intel HD Graphics 540, Nvidia Quadro M1000M, AMD Radeon 540, Nvidia GeForce GTX 1070M, Nvidia GeForce GTX1060, Intel HD Graphics 5300, AMD Radeon R5 M420X, AMD Radeon R7 Graphics, Nvidia GeForce 920, Nvidia GeForce 940M, Nvidia GeForce GTX 930MX, AMD Radeon R7 M465, AMD Radeon R3, Nvidia GeForce GTX 1050Ti, AMD Radeon R7 M365X, AMD Radeon R9 M385, Intel HD Graphics 620 , Nvidia Quadro 3000M, Nvidia GeForce GTX 980 , AMD Radeon R5 M330, AMD FirePro W4190M, AMD FirePro W6150M, AMD Radeon R5 M315, Nvidia Quadro M500M, AMD Radeon R7 M360, Nvidia Quadro M3000M, Nvidia GeForce 960M, ARM Mali T860 MP4\"\"\""
     },
     {
-      "question": "Có những kích thước màn hình nào?",
+      "question": "có những kích thước màn hình nào?",
       "answer": "\"\"\"Có những kích thước màn hình sau: 13.3, 15.6, 15.4, 14.0, 12.0, 11.6, 17.3, 10.1, 13.5, 12.5, 13.0, 18.4, 13.9, 12.3, 17.0, 15.0, 14.1, 11.3\"\"\""
     },
     {
-      "question": "Có những dung lượng bộ nhớ nào?",
+      "question": "có những dung lượng bộ nhớ nào?",
       "answer": "\"\"\"Có những dung lượng bộ nhớ sau: 128.0, 256.0, 512.0, 500.0, 1024.0, 32.0, 1152.0, 64.0, 1280.0, 2304.0, 2048.0, 1536.0, 756.0, 2176.0, 16.0, 768.0, 2560.0, 1088.0, 180.0, 240.0, 8.0, 508.0\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của mỗi hãng?",
+      "question": "có bao nhiêu máy tính của mỗi hãng?",
       "answer": "\"\"\"Số lượng máy tính của mỗi hãng: \nAPPLE: 21 máy, HP: 274 máy, ACER: 103 máy, ASUS: 158 máy, DELL: 297 máy, LENOVO: 297 máy, CHUWI: 3 máy, MSI: 54 máy, MICROSOFT: 6 máy, TOSHIBA: 48 máy, HUAWEI: 2 máy, XIAOMI: 4 máy, VERO: 4 máy, RAZER: 7 máy, MEDIACOM: 7 máy, SAMSUNG: 9 máy, GOOGLE: 3 máy, FUJITSU: 3 máy, LG: 3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng APPLE?",
+      "question": "có bao nhiêu máy tính của hãng apple?",
       "answer": "\"\"\"21 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng HP?",
+      "question": "có bao nhiêu máy tính của hãng hp?",
       "answer": "\"\"\"274 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng ACER?",
+      "question": "có bao nhiêu máy tính của hãng acer?",
       "answer": "\"\"\"103 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng ASUS?",
+      "question": "có bao nhiêu máy tính của hãng asus?",
       "answer": "\"\"\"158 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng DELL?",
+      "question": "có bao nhiêu máy tính của hãng dell?",
       "answer": "\"\"\"297 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng LENOVO?",
+      "question": "có bao nhiêu máy tính của hãng lenovo?",
       "answer": "\"\"\"297 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng CHUWI?",
+      "question": "có bao nhiêu máy tính của hãng chuwi?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng MSI?",
+      "question": "có bao nhiêu máy tính của hãng msi?",
       "answer": "\"\"\"54 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng MICROSOFT?",
+      "question": "có bao nhiêu máy tính của hãng microsoft?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng TOSHIBA?",
+      "question": "có bao nhiêu máy tính của hãng toshiba?",
       "answer": "\"\"\"48 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng HUAWEI?",
+      "question": "có bao nhiêu máy tính của hãng huawei?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng XIAOMI?",
+      "question": "có bao nhiêu máy tính của hãng xiaomi?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng VERO?",
+      "question": "có bao nhiêu máy tính của hãng vero?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng RAZER?",
+      "question": "có bao nhiêu máy tính của hãng razer?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng MEDIACOM?",
+      "question": "có bao nhiêu máy tính của hãng mediacom?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng SAMSUNG?",
+      "question": "có bao nhiêu máy tính của hãng samsung?",
       "answer": "\"\"\"9 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng GOOGLE?",
+      "question": "có bao nhiêu máy tính của hãng google?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng FUJITSU?",
+      "question": "có bao nhiêu máy tính của hãng fujitsu?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hãng LG?",
+      "question": "có bao nhiêu máy tính của hãng lg?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của mỗi dòng?",
+      "question": "có bao nhiêu máy tính của mỗi dòng?",
       "answer": "\"\"\"Số lượng máy tính của mỗi dòng: \nULTRABOOK: 196 máy, NOTEBOOK: 727 máy, NETBOOK: 25 máy, GAMING: 205 máy, 2 IN 1 CONVERTIBLE: 121 máy, WORKSTATION: 29 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng ULTRABOOK?",
+      "question": "có bao nhiêu máy tính của dòng ultrabook?",
       "answer": "\"\"\"196 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng NOTEBOOK?",
+      "question": "có bao nhiêu máy tính của dòng notebook?",
       "answer": "\"\"\"727 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng NETBOOK?",
+      "question": "có bao nhiêu máy tính của dòng netbook?",
       "answer": "\"\"\"25 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng GAMING?",
+      "question": "có bao nhiêu máy tính của dòng gaming?",
       "answer": "\"\"\"205 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng 2 IN 1 CONVERTIBLE?",
+      "question": "có bao nhiêu máy tính của dòng 2 in 1 convertible?",
       "answer": "\"\"\"121 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của dòng WORKSTATION?",
+      "question": "có bao nhiêu máy tính của dòng workstation?",
       "answer": "\"\"\"29 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của mỗi hệ điều hành?",
+      "question": "có bao nhiêu máy tính của mỗi hệ điều hành?",
       "answer": "\"\"\"Số lượng máy tính của mỗi hệ điều hành: \nMACOS: 13 máy, NO OS: 66 máy, WINDOWS 10: 1072 máy, MAC OS X: 8 máy, LINUX: 62 máy, ANDROID: 2 máy, WINDOWS 10 S: 8 máy, CHROME OS: 27 máy, WINDOWS 7: 45 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hệ điều hành MACOS?",
+      "question": "có bao nhiêu máy tính của hệ điều hành macos?",
       "answer": "\"\"\"13 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hệ điều hành NO OS?",
+      "question": "có bao nhiêu máy tính của hệ điều hành no os?",
       "answer": "\"\"\"66 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hệ điều hành WINDOWS 10?",
+      "question": "có bao nhiêu máy tính của hệ điều hành windows 10?",
       "answer": "\"\"\"1072 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hệ điều hành MAC OS X?",
+      "question": "có bao nhiêu máy tính của hệ điều hành mac os x?",
       "answer": "\"\"\"8 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hệ điều hành LINUX?",
+      "question": "có bao nhiêu máy tính của hệ điều hành linux?",
       "answer": "\"\"\"62 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hệ điều hành ANDROID?",
+      "question": "có bao nhiêu máy tính của hệ điều hành android?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hệ điều hành WINDOWS 10 S?",
+      "question": "có bao nhiêu máy tính của hệ điều hành windows 10 s?",
       "answer": "\"\"\"8 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hệ điều hành CHROME OS?",
+      "question": "có bao nhiêu máy tính của hệ điều hành chrome os?",
       "answer": "\"\"\"27 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính của hệ điều hành WINDOWS 7?",
+      "question": "có bao nhiêu máy tính của hệ điều hành windows 7?",
       "answer": "\"\"\"45 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có cùng độ phân giải màn hình?",
+      "question": "có bao nhiêu máy tính có cùng độ phân giải màn hình?",
       "answer": "\"\"\"Số lượng máy tính có cùng độ phân giải màn hình: \n2560x1600: 6 máy, 1440x900: 4 máy, 1920x1080: 841 máy, 2880x1800: 4 máy, 1366x768: 308 máy, 2304x1440: 6 máy, 3200x1800: 27 máy, 1920x1200: 5 máy, 2256x1504: 6 máy, 3840x2160: 43 máy, 2160x1440: 2 máy, 2560x1440: 23 máy, 1600x900: 23 máy, 2736x1824: 1 máy, 2400x1600: 4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 2560x1600?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 2560x1600?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 1440x900?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 1440x900?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 1920x1080?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 1920x1080?",
       "answer": "\"\"\"841 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 2880x1800?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 2880x1800?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 1366x768?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 1366x768?",
       "answer": "\"\"\"308 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 2304x1440?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 2304x1440?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 3200x1800?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 3200x1800?",
       "answer": "\"\"\"27 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 1920x1200?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 1920x1200?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 2256x1504?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 2256x1504?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 3840x2160?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 3840x2160?",
       "answer": "\"\"\"43 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 2160x1440?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 2160x1440?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 2560x1440?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 2560x1440?",
       "answer": "\"\"\"23 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 1600x900?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 1600x900?",
       "answer": "\"\"\"23 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 2736x1824?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 2736x1824?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có độ phân giải màn hình 2400x1600?",
+      "question": "có bao nhiêu máy tính có độ phân giải màn hình 2400x1600?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có cùng trọng lượng?",
+      "question": "có bao nhiêu máy tính có cùng trọng lượng?",
       "answer": "\"\"\"Số lượng máy tính có cùng trọng lượng: \n1.37: 13 máy, 1.34: 6 máy, 1.86: 25 máy, 1.83: 4 máy, 2.1: 58 máy, 2.04: 24 máy, 1.3: 17 máy, 1.6: 20 máy, 2.2: 126 máy, 0.92: 6 máy, 1.22: 4 máy, 0.98: 2 máy, 2.5: 38 máy, 1.62: 6 máy, 1.91: 14 máy, 2.3: 41 máy, 1.35: 5 máy, 1.88: 6 máy, 1.89: 2 máy, 1.65: 7 máy, 2.71: 3 máy, 1.2: 26 máy, 1.44: 9 máy, 2.8: 28 máy, 2.0: 45 máy, 2.65: 9 máy, 2.77: 3 máy, 3.2: 7 máy, 0.69: 4 máy, 1.49: 10 máy, 2.4: 44 máy, 2.13: 2 máy, 2.43: 4 máy, 1.7: 19 máy, 1.4: 24 máy, 1.8: 17 máy, 1.9: 24 máy, 3.0: 16 máy, 1.252: 4 máy, 2.7: 12 máy, 2.02: 7 máy, 1.63: 11 máy, 1.96: 5 máy, 1.21: 5 máy, 2.45: 2 máy, 1.25: 12 máy, 1.5: 21 máy, 2.62: 12 máy, 1.38: 4 máy, 1.58: 3 máy, 1.85: 4 máy, 1.23: 7 máy, 1.26: 15 máy, 2.16: 2 máy, 2.36: 8 máy, 2.05: 5 máy, 1.32: 7 máy, 1.75: 6 máy, 0.97: 2 máy, 2.9: 9 máy, 2.56: 4 máy, 1.48: 10 máy, 1.74: 2 máy, 1.1: 17 máy, 1.56: 3 máy, 2.03: 1 máy, 1.05: 7 máy, 4.4: 1 máy, 1.29: 11 máy, 1.95: 18 máy, 2.06: 10 máy, 1.12: 1 máy, 1.42: 7 máy, 3.49: 3 máy, 3.35: 4 máy, 2.23: 10 máy, 4.42: 11 máy, 2.69: 2 máy, 2.37: 4 máy, 4.7: 1 máy, 3.6: 1 máy, 2.08: 4 máy, 4.3: 4 máy, 1.68: 4 máy, 1.41: 1 máy, 4.14: 3 máy, 2.18: 23 máy, 2.24: 5 máy, 2.67: 3 máy, 2.14: 2 máy, 1.36: 14 máy, 2.25: 6 máy, 2.15: 2 máy, 2.19: 6 máy, 2.54: 1 máy, 3.42: 1 máy, 1.28: 6 máy, 2.33: 3 máy, 1.45: 7 máy, 2.79: 1 máy, 1.84: 10 máy, 2.6: 12 máy, 2.26: 1 máy, 3.25: 1 máy, 1.59: 1 máy, 1.13: 5 máy, 1.78: 2 máy, 1.15: 3 máy, 1.27: 2 máy, 1.43: 6 máy, 2.31: 8 máy, 1.16: 5 máy, 1.64: 9 máy, 2.17: 3 máy, 1.47: 5 máy, 3.78: 5 máy, 1.79: 1 máy, 0.91: 1 máy, 1.99: 3 máy, 4.33: 1 máy, 1.93: 5 máy, 1.87: 3 máy, 2.63: 4 máy, 3.4: 1 máy, 3.14: 3 máy, 1.94: 1 máy, 1.24: 4 máy, 4.6: 4 máy, 4.5: 1 máy, 2.73: 3 máy, 1.39: 2 máy, 2.29: 2 máy, 2.59: 4 máy, 2.94: 2 máy, 1.14: 1 máy, 3.8: 1 máy, 3.31: 2 máy, 1.09: 2 máy, 3.21: 3 máy, 1.19: 1 máy, 1.98: 3 máy, 1.17: 5 máy, 4.36: 4 máy, 1.71: 2 máy, 2.32: 5 máy, 4.2: 3 máy, 1.55: 1 máy, 0.81: 2 máy, 1.18: 1 máy, 2.72: 1 máy, 1.31: 1 máy, 3.74: 1 máy, 1.76: 2 máy, 1.54: 8 máy, 2.83: 1 máy, 2.07: 2 máy, 2.38: 1 máy, 3.58: 2 máy, 1.08: 2 máy, 2.75: 1 máy, 2.99: 1 máy, 1.11: 2 máy, 2.09: 4 máy, 4.0: 2 máy, 0.99: 1 máy, 3.52: 1 máy, 2.591: 1 máy, 2.21: 1 máy, 3.3: 2 máy, 2.191: 1 máy, 2.34: 1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.37?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.37?",
       "answer": "\"\"\"13 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.34?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.34?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.86?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.86?",
       "answer": "\"\"\"25 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.83?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.83?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.1?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.1?",
       "answer": "\"\"\"58 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.04?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.04?",
       "answer": "\"\"\"24 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.3?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.3?",
       "answer": "\"\"\"17 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.6?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.6?",
       "answer": "\"\"\"20 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.2?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.2?",
       "answer": "\"\"\"126 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 0.92?",
+      "question": "có bao nhiêu máy tính có trọng lượng 0.92?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.22?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.22?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 0.98?",
+      "question": "có bao nhiêu máy tính có trọng lượng 0.98?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.5?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.5?",
       "answer": "\"\"\"38 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.62?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.62?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.91?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.91?",
       "answer": "\"\"\"14 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.3?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.3?",
       "answer": "\"\"\"41 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.35?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.35?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.88?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.88?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.89?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.89?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.65?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.65?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.71?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.71?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.2?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.2?",
       "answer": "\"\"\"26 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.44?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.44?",
       "answer": "\"\"\"9 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.8?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.8?",
       "answer": "\"\"\"28 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.0?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.0?",
       "answer": "\"\"\"45 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.65?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.65?",
       "answer": "\"\"\"9 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.77?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.77?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.2?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.2?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 0.69?",
+      "question": "có bao nhiêu máy tính có trọng lượng 0.69?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.49?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.49?",
       "answer": "\"\"\"10 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.4?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.4?",
       "answer": "\"\"\"44 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.13?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.13?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.43?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.43?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.7?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.7?",
       "answer": "\"\"\"19 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.4?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.4?",
       "answer": "\"\"\"24 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.8?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.8?",
       "answer": "\"\"\"17 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.9?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.9?",
       "answer": "\"\"\"24 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.0?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.0?",
       "answer": "\"\"\"16 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.252?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.252?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.7?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.7?",
       "answer": "\"\"\"12 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.02?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.02?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.63?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.63?",
       "answer": "\"\"\"11 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.96?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.96?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.21?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.21?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.45?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.45?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.25?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.25?",
       "answer": "\"\"\"12 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.5?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.5?",
       "answer": "\"\"\"21 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.62?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.62?",
       "answer": "\"\"\"12 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.38?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.38?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.58?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.58?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.85?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.85?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.23?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.23?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.26?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.26?",
       "answer": "\"\"\"15 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.16?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.16?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.36?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.36?",
       "answer": "\"\"\"8 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.05?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.05?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.32?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.32?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.75?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.75?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 0.97?",
+      "question": "có bao nhiêu máy tính có trọng lượng 0.97?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.9?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.9?",
       "answer": "\"\"\"9 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.56?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.56?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.48?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.48?",
       "answer": "\"\"\"10 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.74?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.74?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.1?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.1?",
       "answer": "\"\"\"17 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.56?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.56?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.03?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.03?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.05?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.05?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.4?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.4?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.29?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.29?",
       "answer": "\"\"\"11 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.95?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.95?",
       "answer": "\"\"\"18 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.06?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.06?",
       "answer": "\"\"\"10 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.12?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.12?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.42?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.42?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.49?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.49?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.35?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.35?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.23?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.23?",
       "answer": "\"\"\"10 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.42?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.42?",
       "answer": "\"\"\"11 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.69?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.69?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.37?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.37?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.7?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.7?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.6?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.6?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.08?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.08?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.3?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.3?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.68?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.68?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.41?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.41?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.14?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.14?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.18?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.18?",
       "answer": "\"\"\"23 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.24?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.24?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.67?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.67?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.14?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.14?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.36?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.36?",
       "answer": "\"\"\"14 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.25?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.25?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.15?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.15?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.19?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.19?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.54?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.54?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.42?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.42?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.28?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.28?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.33?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.33?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.45?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.45?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.79?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.79?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.84?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.84?",
       "answer": "\"\"\"10 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.6?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.6?",
       "answer": "\"\"\"12 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.26?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.26?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.25?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.25?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.59?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.59?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.13?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.13?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.78?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.78?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.15?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.15?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.27?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.27?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.43?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.43?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.31?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.31?",
       "answer": "\"\"\"8 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.16?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.16?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.64?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.64?",
       "answer": "\"\"\"9 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.17?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.17?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.47?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.47?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.78?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.78?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.79?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.79?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 0.91?",
+      "question": "có bao nhiêu máy tính có trọng lượng 0.91?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.99?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.99?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.33?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.33?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.93?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.93?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.87?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.87?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.63?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.63?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.4?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.4?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.14?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.14?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.94?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.94?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.24?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.24?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.6?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.6?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.5?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.5?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.73?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.73?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.39?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.39?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.29?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.29?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.59?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.59?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.94?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.94?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.14?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.14?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.8?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.8?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.31?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.31?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.09?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.09?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.21?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.21?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.19?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.19?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.98?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.98?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.17?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.17?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.36?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.36?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.71?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.71?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.32?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.32?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.2?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.2?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.55?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.55?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 0.81?",
+      "question": "có bao nhiêu máy tính có trọng lượng 0.81?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.18?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.18?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.72?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.72?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.31?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.31?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.74?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.74?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.76?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.76?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.54?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.54?",
       "answer": "\"\"\"8 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.83?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.83?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.07?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.07?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.38?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.38?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.58?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.58?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.08?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.08?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.75?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.75?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.99?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.99?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 1.11?",
+      "question": "có bao nhiêu máy tính có trọng lượng 1.11?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.09?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.09?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 4.0?",
+      "question": "có bao nhiêu máy tính có trọng lượng 4.0?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 0.99?",
+      "question": "có bao nhiêu máy tính có trọng lượng 0.99?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.52?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.52?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.591?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.591?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.21?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.21?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 3.3?",
+      "question": "có bao nhiêu máy tính có trọng lượng 3.3?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.191?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.191?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có trọng lượng 2.34?",
+      "question": "có bao nhiêu máy tính có trọng lượng 2.34?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có cùng dung lượng RAM?",
+      "question": "có bao nhiêu máy tính có cùng dung lượng ram?",
       "answer": "\"\"\"Số lượng máy tính có cùng dung lượng RAM: \n8.0: 619 máy, 16.0: 200 máy, 4.0: 375 máy, 2.0: 22 máy, 12.0: 25 máy, 6.0: 41 máy, 32.0: 17 máy, 24.0: 3 máy, 64.0: 1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có dung lượng RAM 8.0?",
+      "question": "có bao nhiêu máy tính có dung lượng ram 8.0?",
       "answer": "\"\"\"619 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có dung lượng RAM 16.0?",
+      "question": "có bao nhiêu máy tính có dung lượng ram 16.0?",
       "answer": "\"\"\"200 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có dung lượng RAM 4.0?",
+      "question": "có bao nhiêu máy tính có dung lượng ram 4.0?",
       "answer": "\"\"\"375 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có dung lượng RAM 2.0?",
+      "question": "có bao nhiêu máy tính có dung lượng ram 2.0?",
       "answer": "\"\"\"22 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có dung lượng RAM 12.0?",
+      "question": "có bao nhiêu máy tính có dung lượng ram 12.0?",
       "answer": "\"\"\"25 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có dung lượng RAM 6.0?",
+      "question": "có bao nhiêu máy tính có dung lượng ram 6.0?",
       "answer": "\"\"\"41 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có dung lượng RAM 32.0?",
+      "question": "có bao nhiêu máy tính có dung lượng ram 32.0?",
       "answer": "\"\"\"17 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có dung lượng RAM 24.0?",
+      "question": "có bao nhiêu máy tính có dung lượng ram 24.0?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có dung lượng RAM 64.0?",
+      "question": "có bao nhiêu máy tính có dung lượng ram 64.0?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có cùng CPU?",
+      "question": "có bao nhiêu máy tính có cùng cpu?",
       "answer": "\"\"\"Số lượng máy tính có cùng CPU: \n2.3: 86 máy, 1.8: 78 máy, 2.5: 293 máy, 2.7: 166 máy, 3.1: 3 máy, 3.0: 19 máy, 2.2: 11 máy, 1.6: 134 máy, 2.0: 86 máy, 2.8: 165 máy, 1.2: 15 máy, 2.9: 21 máy, 2.4: 52 máy, 1.44: 12 máy, 1.5: 10 máy, 1.9: 2 máy, 1.1: 53 máy, 1.3: 6 máy, 2.6: 76 máy, 3.6: 5 máy, 3.2: 1 máy, 1.0: 1 máy, 2.1: 3 máy, 0.9: 4 máy, 1.92: 1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.3?",
+      "question": "có bao nhiêu máy tính có cpu 2.3?",
       "answer": "\"\"\"86 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.8?",
+      "question": "có bao nhiêu máy tính có cpu 1.8?",
       "answer": "\"\"\"78 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.5?",
+      "question": "có bao nhiêu máy tính có cpu 2.5?",
       "answer": "\"\"\"293 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.7?",
+      "question": "có bao nhiêu máy tính có cpu 2.7?",
       "answer": "\"\"\"166 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 3.1?",
+      "question": "có bao nhiêu máy tính có cpu 3.1?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 3.0?",
+      "question": "có bao nhiêu máy tính có cpu 3.0?",
       "answer": "\"\"\"19 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.2?",
+      "question": "có bao nhiêu máy tính có cpu 2.2?",
       "answer": "\"\"\"11 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.6?",
+      "question": "có bao nhiêu máy tính có cpu 1.6?",
       "answer": "\"\"\"134 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.0?",
+      "question": "có bao nhiêu máy tính có cpu 2.0?",
       "answer": "\"\"\"86 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.8?",
+      "question": "có bao nhiêu máy tính có cpu 2.8?",
       "answer": "\"\"\"165 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.2?",
+      "question": "có bao nhiêu máy tính có cpu 1.2?",
       "answer": "\"\"\"15 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.9?",
+      "question": "có bao nhiêu máy tính có cpu 2.9?",
       "answer": "\"\"\"21 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.4?",
+      "question": "có bao nhiêu máy tính có cpu 2.4?",
       "answer": "\"\"\"52 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.44?",
+      "question": "có bao nhiêu máy tính có cpu 1.44?",
       "answer": "\"\"\"12 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.5?",
+      "question": "có bao nhiêu máy tính có cpu 1.5?",
       "answer": "\"\"\"10 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.9?",
+      "question": "có bao nhiêu máy tính có cpu 1.9?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.1?",
+      "question": "có bao nhiêu máy tính có cpu 1.1?",
       "answer": "\"\"\"53 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.3?",
+      "question": "có bao nhiêu máy tính có cpu 1.3?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.6?",
+      "question": "có bao nhiêu máy tính có cpu 2.6?",
       "answer": "\"\"\"76 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 3.6?",
+      "question": "có bao nhiêu máy tính có cpu 3.6?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 3.2?",
+      "question": "có bao nhiêu máy tính có cpu 3.2?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.0?",
+      "question": "có bao nhiêu máy tính có cpu 1.0?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 2.1?",
+      "question": "có bao nhiêu máy tính có cpu 2.1?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 0.9?",
+      "question": "có bao nhiêu máy tính có cpu 0.9?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có CPU 1.92?",
+      "question": "có bao nhiêu máy tính có cpu 1.92?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có cùng GPU?",
+      "question": "có bao nhiêu máy tính có cùng gpu?",
       "answer": "\"\"\"Số lượng máy tính có cùng GPU: \nIntel Iris Plus Graphics 640: 8 máy, Intel HD Graphics 6000: 5 máy, Intel HD Graphics 620: 281 máy, AMD Radeon Pro 455: 1 máy, Intel Iris Plus Graphics 650: 2 máy, AMD Radeon R5: 11 máy, Intel Iris Pro Graphics: 1 máy, Nvidia GeForce MX150: 15 máy, Intel UHD Graphics 620: 68 máy, Intel HD Graphics 520: 185 máy, AMD Radeon Pro 555: 1 máy, AMD Radeon R5 M430: 22 máy, Intel HD Graphics 615: 14 máy, AMD Radeon Pro 560: 1 máy, Nvidia GeForce 940MX: 43 máy, Intel HD Graphics 400: 37 máy, Nvidia GeForce GTX 1050: 66 máy, AMD Radeon R2: 5 máy, AMD Radeon 530: 41 máy, Nvidia GeForce 930MX: 20 máy, Intel HD Graphics: 29 máy, Intel HD Graphics 500: 39 máy, Nvidia GeForce 930MX : 5 máy, Nvidia GeForce GTX 1060: 48 máy, Nvidia GeForce 150MX: 3 máy, Intel Iris Graphics 540: 2 máy, AMD Radeon RX 580: 5 máy, Nvidia GeForce 920MX: 13 máy, AMD Radeon R4 Graphics: 5 máy, AMD Radeon 520: 17 máy, Nvidia GeForce GTX 1070: 30 máy, Nvidia GeForce GTX 1050 Ti: 28 máy, Nvidia GeForce MX130: 6 máy, AMD R4 Graphics: 1 máy, Nvidia GeForce GTX 940MX: 4 máy, AMD Radeon RX 560: 1 máy, Nvidia GeForce 920M: 6 máy, AMD Radeon R7 M445: 14 máy, AMD Radeon RX 550: 4 máy, Nvidia GeForce GTX 1050M: 3 máy, Intel HD Graphics 515: 15 máy, AMD Radeon R5 M420: 8 máy, Intel HD Graphics 505: 12 máy, Nvidia GTX 980 SLI: 1 máy, AMD R17M-M1-70: 1 máy, Nvidia GeForce GTX 1080: 6 máy, Nvidia Quadro M1200: 9 máy, Nvidia GeForce 920MX : 5 máy, Nvidia GeForce GTX 950M: 7 máy, AMD FirePro W4190M : 2 máy, Nvidia GeForce GTX 980M: 10 máy, Intel Iris Graphics 550: 1 máy, Nvidia GeForce 930M: 6 máy, Intel HD Graphics 630: 4 máy, AMD Radeon R5 430: 1 máy, Nvidia GeForce GTX 940M: 1 máy, Intel HD Graphics 510: 4 máy, Intel HD Graphics 405: 9 máy, AMD Radeon RX 540: 2 máy, Nvidia GeForce GT 940MX: 5 máy, AMD FirePro W5130M: 1 máy, Nvidia Quadro M2200M: 3 máy, AMD Radeon R4: 3 máy, Nvidia Quadro M620: 5 máy, AMD Radeon R7 M460: 2 máy, Intel HD Graphics 530: 1 máy, Nvidia GeForce GTX 965M: 4 máy, Nvidia GeForce GTX1080: 1 máy, Nvidia GeForce GTX1050 Ti: 1 máy, Nvidia GeForce GTX 960M: 14 máy, AMD Radeon R2 Graphics: 4 máy, Nvidia Quadro M620M: 1 máy, Nvidia GeForce GTX 970M: 5 máy, Nvidia GeForce GTX 960<U+039C>: 2 máy, Intel Graphics 620: 1 máy, Nvidia GeForce GTX 960: 2 máy, AMD Radeon R5 520: 1 máy, AMD Radeon R7 M440: 5 máy, AMD Radeon R7: 1 máy, Nvidia Quadro M520M: 2 máy, Nvidia Quadro M2200: 2 máy, Nvidia Quadro M2000M: 2 máy, Intel HD Graphics 540: 1 máy, Nvidia Quadro M1000M: 4 máy, AMD Radeon 540: 1 máy, Nvidia GeForce GTX 1070M: 1 máy, Nvidia GeForce GTX1060: 1 máy, Intel HD Graphics 5300: 2 máy, AMD Radeon R5 M420X: 3 máy, AMD Radeon R7 Graphics: 1 máy, Nvidia GeForce 920: 1 máy, Nvidia GeForce 940M: 1 máy, Nvidia GeForce GTX 930MX: 1 máy, AMD Radeon R7 M465: 1 máy, AMD Radeon R3: 1 máy, Nvidia GeForce GTX 1050Ti: 2 máy, AMD Radeon R7 M365X: 1 máy, AMD Radeon R9 M385: 1 máy, Intel HD Graphics 620 : 1 máy, Nvidia Quadro 3000M: 1 máy, Nvidia GeForce GTX 980 : 1 máy, AMD Radeon R5 M330: 7 máy, AMD FirePro W4190M: 1 máy, AMD FirePro W6150M: 1 máy, AMD Radeon R5 M315: 1 máy, Nvidia Quadro M500M: 1 máy, AMD Radeon R7 M360: 1 máy, Nvidia Quadro M3000M: 1 máy, Nvidia GeForce 960M: 1 máy, ARM Mali T860 MP4: 1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel Iris Plus Graphics 640?",
+      "question": "có bao nhiêu máy tính có gpu intel iris plus graphics 640?",
       "answer": "\"\"\"8 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 6000?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 6000?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 620?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 620?",
       "answer": "\"\"\"281 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon Pro 455?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon pro 455?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel Iris Plus Graphics 650?",
+      "question": "có bao nhiêu máy tính có gpu intel iris plus graphics 650?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R5?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r5?",
       "answer": "\"\"\"11 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel Iris Pro Graphics?",
+      "question": "có bao nhiêu máy tính có gpu intel iris pro graphics?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce MX150?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce mx150?",
       "answer": "\"\"\"15 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel UHD Graphics 620?",
+      "question": "có bao nhiêu máy tính có gpu intel uhd graphics 620?",
       "answer": "\"\"\"68 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 520?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 520?",
       "answer": "\"\"\"185 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon Pro 555?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon pro 555?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R5 M430?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r5 m430?",
       "answer": "\"\"\"22 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 615?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 615?",
       "answer": "\"\"\"14 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon Pro 560?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon pro 560?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 940MX?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 940mx?",
       "answer": "\"\"\"43 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 400?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 400?",
       "answer": "\"\"\"37 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 1050?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 1050?",
       "answer": "\"\"\"66 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R2?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r2?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon 530?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon 530?",
       "answer": "\"\"\"41 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 930MX?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 930mx?",
       "answer": "\"\"\"20 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics?",
       "answer": "\"\"\"29 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 500?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 500?",
       "answer": "\"\"\"39 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 930MX ?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 930mx ?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 1060?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 1060?",
       "answer": "\"\"\"48 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 150MX?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 150mx?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel Iris Graphics 540?",
+      "question": "có bao nhiêu máy tính có gpu intel iris graphics 540?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon RX 580?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon rx 580?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 920MX?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 920mx?",
       "answer": "\"\"\"13 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R4 Graphics?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r4 graphics?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon 520?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon 520?",
       "answer": "\"\"\"17 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 1070?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 1070?",
       "answer": "\"\"\"30 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 1050 Ti?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 1050 ti?",
       "answer": "\"\"\"28 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce MX130?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce mx130?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD R4 Graphics?",
+      "question": "có bao nhiêu máy tính có gpu amd r4 graphics?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 940MX?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 940mx?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon RX 560?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon rx 560?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 920M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 920m?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R7 M445?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r7 m445?",
       "answer": "\"\"\"14 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon RX 550?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon rx 550?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 1050M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 1050m?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 515?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 515?",
       "answer": "\"\"\"15 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R5 M420?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r5 m420?",
       "answer": "\"\"\"8 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 505?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 505?",
       "answer": "\"\"\"12 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GTX 980 SLI?",
+      "question": "có bao nhiêu máy tính có gpu nvidia gtx 980 sli?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD R17M-M1-70?",
+      "question": "có bao nhiêu máy tính có gpu amd r17m-m1-70?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 1080?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 1080?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M1200?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m1200?",
       "answer": "\"\"\"9 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 920MX ?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 920mx ?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 950M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 950m?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD FirePro W4190M ?",
+      "question": "có bao nhiêu máy tính có gpu amd firepro w4190m ?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 980M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 980m?",
       "answer": "\"\"\"10 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel Iris Graphics 550?",
+      "question": "có bao nhiêu máy tính có gpu intel iris graphics 550?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 930M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 930m?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 630?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 630?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R5 430?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r5 430?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 940M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 940m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 510?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 510?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 405?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 405?",
       "answer": "\"\"\"9 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon RX 540?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon rx 540?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GT 940MX?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gt 940mx?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD FirePro W5130M?",
+      "question": "có bao nhiêu máy tính có gpu amd firepro w5130m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M2200M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m2200m?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R4?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r4?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M620?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m620?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R7 M460?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r7 m460?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 530?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 530?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 965M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 965m?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX1080?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx1080?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX1050 Ti?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx1050 ti?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 960M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 960m?",
       "answer": "\"\"\"14 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R2 Graphics?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r2 graphics?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M620M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m620m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 970M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 970m?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 960<U+039C>?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 960<u+039c>?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel Graphics 620?",
+      "question": "có bao nhiêu máy tính có gpu intel graphics 620?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 960?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 960?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R5 520?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r5 520?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R7 M440?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r7 m440?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R7?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r7?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M520M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m520m?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M2200?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m2200?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M2000M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m2000m?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 540?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 540?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M1000M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m1000m?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon 540?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon 540?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 1070M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 1070m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX1060?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx1060?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 5300?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 5300?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R5 M420X?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r5 m420x?",
       "answer": "\"\"\"3 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R7 Graphics?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r7 graphics?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 920?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 920?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 940M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 940m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 930MX?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 930mx?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R7 M465?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r7 m465?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R3?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r3?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 1050Ti?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 1050ti?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R7 M365X?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r7 m365x?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R9 M385?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r9 m385?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Intel HD Graphics 620 ?",
+      "question": "có bao nhiêu máy tính có gpu intel hd graphics 620 ?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro 3000M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro 3000m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce GTX 980 ?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce gtx 980 ?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R5 M330?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r5 m330?",
       "answer": "\"\"\"7 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD FirePro W4190M?",
+      "question": "có bao nhiêu máy tính có gpu amd firepro w4190m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD FirePro W6150M?",
+      "question": "có bao nhiêu máy tính có gpu amd firepro w6150m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R5 M315?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r5 m315?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M500M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m500m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU AMD Radeon R7 M360?",
+      "question": "có bao nhiêu máy tính có gpu amd radeon r7 m360?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia Quadro M3000M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia quadro m3000m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU Nvidia GeForce 960M?",
+      "question": "có bao nhiêu máy tính có gpu nvidia geforce 960m?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có GPU ARM Mali T860 MP4?",
+      "question": "có bao nhiêu máy tính có gpu arm mali t860 mp4?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có cùng kích thước màn hình?",
+      "question": "có bao nhiêu máy tính có cùng kích thước màn hình?",
       "answer": "\"\"\"Số lượng máy tính có cùng kích thước màn hình: \n13.3: 164 máy, 15.6: 665 máy, 15.4: 4 máy, 14.0: 197 máy, 12.0: 6 máy, 11.6: 33 máy, 17.3: 164 máy, 10.1: 4 máy, 13.5: 6 máy, 12.5: 39 máy, 13.0: 2 máy, 18.4: 1 máy, 13.9: 6 máy, 12.3: 5 máy, 17.0: 1 máy, 15.0: 4 máy, 14.1: 1 máy, 11.3: 1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 13.3?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 13.3?",
       "answer": "\"\"\"164 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 15.6?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 15.6?",
       "answer": "\"\"\"665 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 15.4?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 15.4?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 14.0?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 14.0?",
       "answer": "\"\"\"197 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 12.0?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 12.0?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 11.6?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 11.6?",
       "answer": "\"\"\"33 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 17.3?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 17.3?",
       "answer": "\"\"\"164 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 10.1?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 10.1?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 13.5?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 13.5?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 12.5?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 12.5?",
       "answer": "\"\"\"39 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 13.0?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 13.0?",
       "answer": "\"\"\"2 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 18.4?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 18.4?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 13.9?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 13.9?",
       "answer": "\"\"\"6 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 12.3?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 12.3?",
       "answer": "\"\"\"5 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 17.0?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 17.0?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 15.0?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 15.0?",
       "answer": "\"\"\"4 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 14.1?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 14.1?",
       "answer": "\"\"\"1 máy\"\"\""
     },
     {
-      "question": "Có bao nhiêu máy tính có kích thước màn hình 11.3?",
+      "question": "có bao nhiêu máy tính có kích thước màn hình 11.3?",
       "answer": "\"\"\"1 máy\"\"\""
+    },
+    {
+      "question": "máy tính có giá trung bình thấp nhất ",
+      "answer": "107305.92 ngàn vnd"
     }
   ]
 }

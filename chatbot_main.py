@@ -16,11 +16,16 @@ def convert_json_string_to_python_string(json_string: str) -> str:
     return json_string.replace('"""', '') if json_string.startswith('"""') else json_string
 
 def find_best_match(user_question: str, question: list[str]) -> str | None:
-    matches = get_close_matches(user_question, question, n=1, cutoff=0.6)
+    #Convert all strings to lower case
+    user_question = user_question.lower()
+    question = [q.lower() for q in question]
+    matches = get_close_matches(user_question, question, n=1, cutoff=0.7)
     return matches[0] if matches else None
 
 def get_answer_for_question(user_question: str, questions: dict) -> str | None:
+    user_question = user_question.lower()
     for q in questions["questions"]:
+        q["question"] = q["question"].lower()
         if q["question"] == user_question:
             # Check if the answer is a list
             if isinstance(q["answer"], list):
@@ -32,7 +37,6 @@ def get_answer_for_question(user_question: str, questions: dict) -> str | None:
 
 def chatbot(file: str) -> None:
     questions_data = load_json_file(file)
-    clear = False
     while True:
         user_question = input('You: ')
         if user_question == 'exit':
@@ -44,16 +48,15 @@ def chatbot(file: str) -> None:
         else:
             print(f"Bot: I don't have the answer. Please teach me.")
             new_answer = input('Type new answer or skip to skip the question or exit to stop: ')
-            if new_answer.lower() != "skip":
+            if new_answer.lower().strip() == "skip":
+                continue
+            if new_answer.lower().strip() == "exit":
+                break
+            save_character = input(f"Bạn có muốn lưu câu trả lời là {new_answer} cho câu hỏi {user_question} không (y/n): ")
+            if save_character.lower() == "y":
                 questions_data["questions"].append({"question": user_question, "answer": new_answer})
                 save_json_file(file, questions_data)
-            elif new_answer.lower() == "exit":
-                break
         c = input("Do you want to clear the terminal (y/n): ")
         if c.lower() == "y":
-            clear = True
-        else:
-            clear = False
-        if clear:
             os.system('cls' if os.name == 'nt' else 'clear')
 chatbot(json_data_path)
