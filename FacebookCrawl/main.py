@@ -11,8 +11,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 root_path = os.path.dirname(os.path.abspath(__file__))
 def writeFileTxtResult(fileName, content):
     try:
-        path = os.path.join(root_path, fileName)
-        with open(path, 'a') as f1:
+        with open(fileName, 'a') as f1:
             f1.writelines(content + "\n")
     except Exception:
         traceback.print_exc()
@@ -59,30 +58,29 @@ class Threading(threading.Thread):
     #Bắt đầu tìm kiếm ID của group hoặc fanpage
     def startLocIDGroupOrFanpage(self):
         if(self.type == "fanpage"):
-            dataFileID1 = readDataFileITxtID(fileFanpageID)
+            dataFileID1 = readDataFileITxtID(root_path + "\\" + fileFanpageID)
             dataID1 = get_FangpageID_By_Search(self.driver, self.txt, self.timeout)
             for ID in dataID1:
                 if(ID not in dataFileID1):
                     dataFileID1.append(ID)
-                    writeFileTxtID(fileFanpageID, ID)
+                    writeFileTxtID(root_path + "\\" + fileFanpageID, ID)
         elif(self.type == "group"):
-            dataFileID2 = readDataFileITxtID(fileGroupID)
+            dataFileID2 = readDataFileITxtID(root_path + "\\" + fileGroupID)
             dataID2 = get_GroupPublicID_By_Search(self.driver, self.txt, self.timeout)
             for ID in dataID2:
                 if(ID not in dataFileID2):
                     dataFileID2.append(ID)
-                    writeFileTxtID(fileGroupID, ID)
+                    writeFileTxtID(root_path + "\\" + fileGroupID, ID)
     #Bắt đầu lấy nội dung bài viết 
     def startGetContentPostBySelenium(self):
         FanpageOrGroupID = self.nameOrId
         cnt = 1
-        path = os.path.dirname(os.path.abspath(__file__)) + "/"
         listpost = []
         try:
             if(self.type == "fanpage"):
                 getPostIDFanpage(self.driver, FanpageOrGroupID, self.numberPost)
-                listPostFanpageID = readDataFileITxtID(filePostFanpageID)
-                with open(path + filePostFanpageID, 'w') as file:
+                listPostFanpageID = readDataFileITxtID(root_path + "\\" + filePostFanpageID)
+                with open(root_path + "\\" + filePostFanpageID, 'w') as file:
                     pass
                 print("\n\n=================Bắt đầu crawl nội dung================\n\n") 
                 for i, ID in enumerate(listPostFanpageID):
@@ -101,7 +99,7 @@ class Threading(threading.Thread):
                             print("Crawl thành công bài viết:", cnt, "\n\n","postID:", IDPost, "\nText:",Text, "\nTime:", TimePost, "\npostLink:",LinkPost, "\npostImage:",LinkImg, "\n\n")
                             if(LinkImg != None):
                                 download_image(self.driver, LinkImg, IDPost)
-                            writeFileTxtResult(filePostFanpageID, LinkPost)
+                            writeFileTxtResult(root_path + "\\" + filePostFanpageID, LinkPost)
                             listpost.append({
                                 "IDPost": IDPost,
                                 "TimePost": TimePost,
@@ -118,8 +116,8 @@ class Threading(threading.Thread):
                     Save_Excel(listpost)
             elif(self.type == "group"):
                 getPostsIDGroup(self.driver, FanpageOrGroupID, self.numberPost)
-                listPostGroupID = readDataFileITxtID(filePostGroupID)
-                with open(path + filePostGroupID, 'w') as file:
+                listPostGroupID = readDataFileITxtID(root_path + "\\" +filePostGroupID)
+                with open(root_path + "\\" + filePostGroupID, 'w') as file:
                     pass
                 print("\n\n=================Bắt đầu crawl nội dung================\n\n")
                 for i, ID in enumerate(listPostGroupID):
@@ -143,7 +141,7 @@ class Threading(threading.Thread):
                             "LinkPost": LinkPost,
                             "LinkImg": LinkImg
                         })
-                        writeFileTxtResult(filePostGroupID, LinkPost)
+                        writeFileTxtResult(root_path + "\\" + filePostGroupID, LinkPost)
                         if(LinkImg != None):
                             download_image(self.driver, LinkImg, IDPost)
                         cnt = cnt + 1
@@ -286,10 +284,10 @@ try:
                             print("Thời gian phải lớn hơn 0")
                 res = get_FangpageID_By_Search(driver, Key, Count)
                 print(f"Danh sách các ID Fanpages đã lọc được lưu vào trong file {fileFanpageID}: \n{res}\n\n")
-                store_res = readDataFileITxtID(fileFanpageID)
+                store_res = readDataFileITxtID(root_path + "\\" + fileFanpageID)
                 for i in res:
                     if i not in store_res:
-                        writeFileTxtID(fileFanpageID, i)
+                        writeFileTxtID(root_path + "\\" + fileFanpageID, i)
             elif type == "3":
                 Key = input("Nhập vào từ khóa group cần tìm: ")
                 Check_cnt = False
@@ -304,10 +302,10 @@ try:
                             print("Thời gian phải lớn hơn 0")
                 res = get_GroupPublicID_By_Search(driver, Key, Count)
                 print(f"Danh sách các ID group đã lọc được lưu vào file {fileGroupID}: \n{res}\n\n")
-                store_res = readDataFileITxtID(fileGroupID)
+                store_res = readDataFileITxtID(root_path + "\\" + fileGroupID)
                 for i in res:
                     if i not in store_res:
-                        writeFileTxtID(fileGroupID, i)
+                        writeFileTxtID(root_path + "\\" + fileGroupID, i)
             elif type == "4":
                 Key = input("Nhập vào từ khóa group cần tìm: ")
                 Check_cnt = False
@@ -322,10 +320,10 @@ try:
                             print("Thời gian phải lớn hơn 0")
                 res = get_JoinedGroupID_By_Search(driver, Key, Count)
                 print(f"Danh sách các ID group đã lọc được lưu vào file {fileGroupIDJoin}: \n{res}\n\n")
-                store_res = readDataFileITxtID(fileGroupIDJoin)
+                store_res = readDataFileITxtID(root_path + "\\" + fileGroupIDJoin)
                 for i in res:
                     if i not in store_res:
-                        writeFileTxtID(fileGroupIDJoin, i)
+                        writeFileTxtID(root_path + "\\" + fileGroupIDJoin, i)
             elif type == "5":
                 break
             input("Nhấn Enter để tiếp tục...")

@@ -2,7 +2,6 @@ import pandas as pd
 import os
 import json
 from difflib import get_close_matches
-
 clean_data_path = "data/csv/clean_laptop_data.csv"
 original_data_path = "data/csv/laptop_data.csv"
 json_data_path = "data/json/question_data.json"

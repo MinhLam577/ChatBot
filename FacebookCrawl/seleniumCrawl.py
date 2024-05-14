@@ -18,14 +18,12 @@ fileFanpageID = 'ID_Fanpage.txt'
 filePostFanpageID = 'post_ID_Fanpage.txt'
 filePostGroupID = 'post_ID_Group.txt'
 fileGroupIDJoin = "ID_Group_Join.txt"
-
-root_path = os.path.dirname(os.path.abspath(__file__))
+root_path = os.getcwd()
+current_dir = root_path + "\\FacebookCrawl"
 # khởi tạo 1 chrome profile với tham số headless(ẩn chrome) tùy chọn
 def initDriverProfile(headlessOption='--disable-headless'): 
-    # Đường dẫn đến thư mục chứa file python hiện tại
-    current_directory = root_path
     # Đường dẫn đến file chromedriver.exe
-    CHROMEDRIVER_PATH = current_directory + "\chromedriver.exe"
+    CHROMEDRIVER_PATH = current_dir + "\\chromedriver.exe"
     Service = webdriver.chrome.service.Service(CHROMEDRIVER_PATH)
     Options = webdriver.ChromeOptions()
     Options.add_argument('--no-sandbox')
@@ -80,7 +78,7 @@ def getCookieByRawCookie(cookie):
 #Lấy cookie từ file
 def getCookieFromFile(filename):
     try:
-        path = os.path.join(root_path, filename)
+        path = os.path.join(current_dir, filename)
         if(os.path.isfile(path) == False):
             raise Exception("File not found")
         with open(path, mode='r') as f:
@@ -121,7 +119,7 @@ def readDataFileITxtID(fileName):
 #Ghi dữ liệu vào file txt
 def writeFileTxtID(fileName, content):
     try:
-        path = root_path + "/" + fileName
+        path = current_dir + "\\" + fileName
         with open(path, 'a') as f1:
             f1.write(content + ";")
     except Exception:
@@ -365,10 +363,8 @@ def download_image(driver, url, IDpost):
         if image_src is None:
             return
         image_src = image_src['src']
-        # Đường dẫn đến thư mục chứa file python hiện tại
-        current_directory = os.path.dirname(os.path.abspath(__file__))
         #Đường dẫn đến folder ảnh
-        folder_path = os.path.join(current_directory,"Images")
+        folder_path = os.path.join(current_dir,"images")
         if not os.path.exists(folder_path):
             os.mkdir(folder_path)
         # Đường dẫn đến ảnh
